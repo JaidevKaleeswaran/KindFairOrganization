@@ -4,7 +4,20 @@ html {
 }
 
 body {
-  text-align: center;
-  background: red;
+  background: blue;
   color: white;
+  text-align: center;
+}
+p1 {
+  font-size: 15px;
+  text-align: left;
+}
+
+p2 {
+  font-size: 15px;
+  text-align: left;
+}
+p3 {
+  font-size: 15px;
+  text-align: left;
 }
